@@ -1,0 +1,15 @@
+Capy Focuser INDI Driver
+==================
+
+This package provides the INDI driver for Capy Focuser / Capy Motor Driver
+
+Requirements
+============
+
++ libindi
++ libnova
+
+Installation
+============
+
+        See INSTALL
